@@ -1,1 +1,1 @@
-# java-springboot-helloworld
+# springboot-helloworld
